@@ -10,9 +10,11 @@
 
 ## Random-User-API Performance Test Reports
 ### Load Test Report
-![Load Test Report](https://github.com/ShahriarPriyo/Random-User-API-Performance-Test/assets/46930074/8894a65b-ac05-4b94-a238-dcc1e60cdf66)
+![Load Test](https://github.com/ShahriarPriyo/Random-User-API-Performance-Test/assets/46930074/5ed0f399-72d9-49a0-bb3a-0bd2a23d9885)
+
 ### Stress Test Report
-![Stress Load Test Report](https://github.com/ShahriarPriyo/Random-User-API-Performance-Test/assets/46930074/560cb413-c361-42c9-b002-fae7f21022c6)
+![Stress test](https://github.com/ShahriarPriyo/Random-User-API-Performance-Test/assets/46930074/584782b2-faae-464d-a519-40153c1814fa)
+
 ### Jmeter Test Report
 ![Random API report](https://github.com/ShahriarPriyo/Random-User-API-Performance-Test/assets/46930074/41a6342e-8fc5-43a8-83eb-82ef3b7df09d)
 
